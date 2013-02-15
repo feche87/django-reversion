@@ -48,7 +48,7 @@ msgstr "Agregar %(name)s"
 
 #: .\templates\reversion\object_history.html.py:8
 msgid "Choose a date from the list below to revert to a previous version of this object."
-msgstr "Elija una fecha de la lista pata restituir una versión previa de este objeto."
+msgstr "Elija una fecha de la lista para restituir una versión previa de este objeto."
 
 #: .\templates\reversion\object_history.html.py:15
 #: .\templates\reversion\recover_list.html.py:23
@@ -70,7 +70,7 @@ msgstr "d/m/Y, G:i"
 
 #: .\templates\reversion\object_history.html.py:31
 msgid "This object doesn't have a change history. It probably wasn't added via this admin site."
-msgstr "Este objeto no posee un historial de cambios. Probablemente no haya sido agregado mediante el sitio de administración."
+msgstr "Este objeto no posee un historial de modificaciones. Probablemente no haya sido agregado mediante el sitio de administración."
 
 #: .\templates\reversion\recover_form.html.py:14
 #: .\templates\reversion\recover_list.html.py:7
